@@ -22,7 +22,36 @@ My current focus is not AI for its own sake, but the practical combination of **
 | [Multiwfn Mayer Bond-Order Batch Workflow](REPLACE_WITH_REPOSITORY_URL) | Automates repetitive Mayer bond-order analysis and exports traceable tabular results. | Planned / in development |
 | [Reproducible Spectra Plotting Workflow](REPLACE_WITH_REPOSITORY_URL) | Produces consistent mass-spectrum and UV–Vis figures from standardized data files. | Planned / in development |
 
+## Research and technical toolkit
+
+- **Mass Spectrometry:** ESI-MS, tandem MS, collision-induced dissociation, LTQ, TOF
+- **Computational Chemistry:** Gaussian 16, CP2K, VASP, Multiwfn, VMD
+- **Scientific Automation:** Python, structured data extraction, batch processing, reproducible workflow design
+- **AI-Assisted Development:** Claude Code, Codex, prompt/workflow design, human-in-the-loop validation
+- **Data and Visualization:** Origin, SQLite/SQL, Adobe Photoshop and InDesign
+
+## How I build
+
+1. Start from a real research or workflow problem.
+2. Convert domain requirements into explicit inputs, outputs, and validation criteria.
+3. Use code and AI assistants to accelerate implementation and documentation.
+4. Compare automated outputs with manually checked reference cases.
+5. Keep the workflow reproducible, traceable, and understandable to other users.
+
+## Currently learning
+
+- Batch automation for quantum-chemistry post-processing
+- Reproducible scientific visualization with Python
+- Evaluation methods for agent-assisted scientific workflows
+- Better software testing and documentation for research tools
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/shiqi-liu-chem](https://www.linkedin.com/in/shiqi-liu-chem/)
+- Email: riixz17ya@gmail.com
 
 ---
+
+*Domain knowledge defines the problem; automation makes the solution reusable.*
 *“Keep a beginner's mindset, drive research with code.”*
 
