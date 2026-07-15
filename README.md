@@ -53,5 +53,3 @@ My current focus is not AI for its own sake, but the practical combination of **
 ---
 
 *Domain knowledge defines the problem; automation makes the solution reusable.*
-*“Keep a beginner's mindset, drive research with code.”*
-
