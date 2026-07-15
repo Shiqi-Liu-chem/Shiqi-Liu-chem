@@ -1,22 +1,28 @@
-# Hi there, I'm Shiqi Liu 👋
+# Hi, I'm Shiqi Liu 👋
 
-A Tech-driven Chemical Engineering Graduate Researcher specialized in combining **Mass Spectrometry**, **Computational Chemistry (DFT)**, and **AI-powered Workflow Automation**. 
+**Materials & Chemical Engineering Graduate Researcher | Mass Spectrometry | Computational Chemistry | Scientific Workflow Automation**
 
-## 🔬 Research Interests
-* **Cluster Science:** Energy-resolved collision-induced dissociation (CID) behavior & stability of atomically precise metal nanoclusters.
-* **Catalysis:** Mechanism elucidation of catalytic processes via high-throughput quantum chemical simulations.
-* **AI for Science (AI4S):** Developing customized AI Agents and automation tools to bridge the gap between traditional chemistry and modern data science.
+I study the stability and fragmentation behavior of atomically precise metal nanoclusters using tandem mass spectrometry and computational chemistry. Alongside my research, I build small, reproducible tools that reduce repetitive work in scientific data processing, instrument operations, and knowledge workflows.
 
-## 🛠️ Tech Stack & Skills
-* **Computational Tools:** Gaussian 16, VASP, CP2K
-* **Quantum Chemistry Analysis:** Multiwfn (NBO, Mayer Bond Orders, ESP), VMD
-* **AI & Workflow Automation:** Claude Code, Codex AI Agents, Python-based automation scripting
-* **Data & Visualization:** Origin (SCI-standard export), Adobe Illustrator, SQL (Data Querying)
+My current focus is not AI for its own sake, but the practical combination of **domain knowledge, reliable automation, and human validation** in research-intensive settings.
 
-## 📂 Featured Projects
-* 🚀 [Computational Chemistry Automation Workflow](#) 
-* 📊 [Mass Spectrometry Data Analysis Toolset](#) 
+## What I'm working on
+
+- 🔬 Investigating energy-resolved collision-induced dissociation (CID) of Cu and Au nanoclusters.
+- 🧮 Connecting experimental fragmentation behavior with DFT-based electronic-structure descriptors.
+- 🛠️ Building reusable workflows for mass-spectrometry operations, computational analysis, and scientific visualization.
+- 🤖 Exploring responsible AI-assisted development with clear validation and reproducibility checks.
+
+## Selected projects
+
+| Project | What it solves | Status |
+| --- | --- | --- |
+| [Mass Spectrometry Operations & Maintenance Manager](REPLACE_WITH_REPOSITORY_URL) | Organizes experiment records, instrument operations, and preventive-maintenance information in one workflow. | Usable prototype |
+| [Date-Driven IELTS Learning Workflow](REPLACE_WITH_REPOSITORY_URL) | Generates a structured daily learning pack from a date input, including vocabulary, translation, passages, phrases, and audio. | Usable prototype |
+| [Multiwfn Mayer Bond-Order Batch Workflow](REPLACE_WITH_REPOSITORY_URL) | Automates repetitive Mayer bond-order analysis and exports traceable tabular results. | Planned / in development |
+| [Reproducible Spectra Plotting Workflow](REPLACE_WITH_REPOSITORY_URL) | Produces consistent mass-spectrum and UV–Vis figures from standardized data files. | Planned / in development |
+
 
 ---
-*“Keep a beginner's mindset, drive research with code.”*## Hi there 👋
+*“Keep a beginner's mindset, drive research with code.”*
 
