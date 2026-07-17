@@ -17,8 +17,8 @@ My current focus is not AI for its own sake, but the practical combination of **
 
 | Project | What it solves | Status |
 | --- | --- | --- |
-| [Mass Spectrometry Operations & Maintenance Manager](https://github.com/Shiqi-Liu-chem/lab-mass-spec-maintenance)) | Organizes experiment records, instrument operations, and preventive-maintenance information in one workflow. | Usable prototype |
-| [Date-Driven IELTS Learning Workflow](https://github.com/Shiqi-Liu-chem/date-driven-ielts-workflow)) | Generates a structured daily learning pack from a date input, including vocabulary, translation, passages, phrases, and audio. | Usable prototype |
+| [Mass Spectrometry Operations & Maintenance Manager](https://github.com/Shiqi-Liu-chem/lab-mass-spec-maintenance) | Organizes experiment records, instrument operations, and preventive-maintenance information in one workflow. | Usable prototype |
+| [Date-Driven IELTS Learning Workflow](https://github.com/Shiqi-Liu-chem/date-driven-ielts-workflow) | Generates a structured daily learning pack from a date input, including vocabulary, translation, passages, phrases, and audio. | Usable prototype |
 | [Multiwfn Mayer Bond-Order Batch Workflow](REPLACE_WITH_REPOSITORY_URL) | Automates repetitive Mayer bond-order analysis and exports traceable tabular results. | Planned / in development |
 | [Reproducible Spectra Plotting Workflow](REPLACE_WITH_REPOSITORY_URL) | Produces consistent mass-spectrum and UV–Vis figures from standardized data files. | Planned / in development |
 
